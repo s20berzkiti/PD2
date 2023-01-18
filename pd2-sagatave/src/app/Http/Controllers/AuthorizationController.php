@@ -9,6 +9,7 @@ class AuthorizationController extends Controller
 {
     public function login()
     {
+       
         return view(
             'authorization.login',
             [

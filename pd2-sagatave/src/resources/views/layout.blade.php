@@ -3,7 +3,7 @@
     <script src="/js/main.js"></script>
     <head>
         <meta charset="utf-8">
-        <title>PD 2 - {{ $title }}</title>
+        <title>PD 2 -</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-
@@ -20,8 +20,7 @@ eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="a
 
                             <span class="navbar-brand mb-0 h1">Grāmatu veikaliņš</span>
 
-                            <button class="navbar-toggler" type="button" data-bs-
-toggle="collapse" data-bs-target="#navbarNav">
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
 
@@ -40,6 +39,10 @@ toggle="collapse" data-bs-target="#navbarNav">
 
                                     <li class="nav-item">
                                         <a class="nav-link" href="/books">Grāmatas</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/genres">Žanri</a>
                                     </li>
 
                                     <li class="nav-item">
